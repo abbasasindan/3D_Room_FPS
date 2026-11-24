@@ -577,7 +577,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::First_Script
   speed: 5
-  direction: {x: 1, y: 0, z: 0}
   value: {x: 1, y: 1, z: 1}
 --- !u!1 &1302485529
 GameObject:
